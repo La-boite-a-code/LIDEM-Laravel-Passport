@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "data": {
+        "user": {
+            "id": 1,
+            "name": "Alexandre Ribes",
+            "email": "ribes.alexandre@gmail.com",
+            "email_verified_at": null,
+            "created_at": "2021-11-19T15:21:00.000000Z",
+            "updated_at": "2021-11-19T15:21:00.000000Z"
+        },
+        "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIyIiwianRpIjoiYmU4YTI3NjM4OWMzYmNiNGEyYjVkZjI2NmVjZGM0ZTk0ZjUxNmY4ZjUxNjY2YWEwYjk2YzRmYmY2MzU1NTY1MDZiOGM2Njc2MjlkZGM4MWQiLCJpYXQiOjE2MzczMzYyNjAuNjMyNTksIm5iZiI6MTYzNzMzNjI2MC42MzI1OTIsImV4cCI6MTY2ODg3MjI2MC42MjY3MDEsInN1YiI6IjEiLCJzY29wZXMiOlsiKiJdfQ.E0Q3WU2LFrw1v18NPBYBTtA3y1qwlSxfeNoX8Ck9TYoLcmgBiIZ7IPWFkRHZsuX75cVZhOKMTIudHWj0RbH6aKvoEhy7BUVas2Axoq88SqgKQPqcrnAmhJj84lFmEu5k7Gvpz4oSfSe1OApHklglz7YDGW3LUIgi8p_i8CdabtIstQe0zOqZKcsorGUyr2RBZqfCRNqgSZz3WNVvoUdPF7u86zynTpEyknDmD5-NKe32V4EgIokikm-y18N-zzPceOE3iguz7AU7vM9lyPCW46C5brYI42bhhe9PQZyoq4KMh8sNRNo4G9w_7H8lUWFrpOH28OZFUhPJyNigIBRoFK35zvtVmdSUGXYRHFNDgjhhjoFlORxWBW5Vxb_PnjH-jHsaIvLP6Jvi6YeYJ1AD6s1-NQIuFOIgeYUOGZcJyG42OamzttPS2w4awtjUa32IM6pm53P_3IwygLdkFMRWeTXv5InNJH9H9xkHwW1rz8u-8e0UqWbLnnyQ-_j3AiFz-YNINKe-ywJqU5EXPfX2dNvOM_2nrQjiqrcfmoqvbGrQwHn1sY-A1YqDTqRXX5S305jXAlNcSHbjCa6qFx-b3HFve-EsFlJCMx5DWzEbNyxSKWizoIQhUFu3DsSbEP0kN_xQoYtzIljBQ0yEvh1950WhADq-hLS8eWlPyrbuI_w",
+        "refresh_token": "def50200bd726f09bf3a70a6957514e9c31d6214fa28e29d56d9c5586c9bb23afe3daeb81833be7fce659dbd7209bc6067a2899a68ad7940adf9f36faf8bb22fca7d60ed50d5ac3b332216a1a91cae589ca2317f36c1326d1f9078ce60fc70722560004e5abb519c1f25f1158e8f42f750352e10504fcc6639a2395685aa0ac0a621e206d7b3a69876479097372d0cf46e58ceb0d9c29cbcc5bbd8573fb4f55117dba225f3429a6fdbae24cf7884c7aab37bb140a323c1db2ed3e309bc81f5cb3966b7d2f8a6faa808d34c493a47fedd6c490f55b62dccccea9f3b73f9b645e3ec984a8f9c83bd4cb8aaf3e0895cf58f172250cf9504ccc984ef5c67b8b73138a04f2dc0a241e61ea63147e3f50f2ec16fa35b4b068c6f4509f492e7c39d1eac542eb85e743a4dbf5514760df88c0e3526fd593cd1ab04436f0e047689bff97840ed87e49b78e9ea9dd1cfd328ccfc71d21a552549aee0dd89a87b98d291ce6c134e771d",
+        "expires_in": 31536000,
+        "client_id": 2,
+        "client_secret": "3rZLBrTPmU4QCOgEsiFaBlrsKkyZyKB7oWjbTgVn"
+    }
+}
